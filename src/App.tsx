@@ -5,8 +5,7 @@ import {
   FaLinkedin, 
   FaArrowRight, 
   FaTerminal, 
-  FaBuffer, 
-  FaRocket 
+  FaBuffer,  
 } from 'react-icons/fa';
 
 export default function App() {
